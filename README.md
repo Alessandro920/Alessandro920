@@ -19,8 +19,6 @@ Estudiante de secundaria interesado en la programación, la tecnología y el des
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alessandro920&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro920&layout=compact)
-
 ## Objetivos
 
 - Mejorar mis habilidades en desarrollo web  
